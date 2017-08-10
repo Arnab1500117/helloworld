@@ -12,5 +12,3 @@ komron file 1
 komron file 1
 komron file 1
 komron file 1
-komron file 1
-komron file 1
